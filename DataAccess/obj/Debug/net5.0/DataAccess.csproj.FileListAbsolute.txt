@@ -1,0 +1,36 @@
+C:\Users\joann\Desktop\TypicalTechTools_SourceCode\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\joann\Desktop\TypicalTechTools_SourceCode\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\joann\Desktop\TypicalTechTools_SourceCode\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\joann\Desktop\TypicalTechTools_SourceCode\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\joann\Desktop\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\joann\Desktop\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joann\Desktop\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\joann\Desktop\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\joann\Desktop\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\joann\Desktop\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\joann\Desktop\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\joann\Desktop\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+E:\Tafe ICT diploma\Semester 2\507 Connect to Database\AT2\507AT2QianXieJoanna465511632\TypicalTechTools_SourceCode\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+E:\Tafe ICT diploma\Semester 2\507 Connect to Database\AT2\507AT2QianXieJoanna465511632\TypicalTechTools_SourceCode\DataAccess\bin\Debug\net5.0\DataAccess.dll
+E:\Tafe ICT diploma\Semester 2\507 Connect to Database\AT2\507AT2QianXieJoanna465511632\TypicalTechTools_SourceCode\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+E:\Tafe ICT diploma\Semester 2\507 Connect to Database\AT2\507AT2QianXieJoanna465511632\TypicalTechTools_SourceCode\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+E:\Tafe ICT diploma\Semester 2\507 Connect to Database\AT2\507AT2QianXieJoanna465511632\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+E:\Tafe ICT diploma\Semester 2\507 Connect to Database\AT2\507AT2QianXieJoanna465511632\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tafe ICT diploma\Semester 2\507 Connect to Database\AT2\507AT2QianXieJoanna465511632\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+E:\Tafe ICT diploma\Semester 2\507 Connect to Database\AT2\507AT2QianXieJoanna465511632\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+E:\Tafe ICT diploma\Semester 2\507 Connect to Database\AT2\507AT2QianXieJoanna465511632\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Tafe ICT diploma\Semester 2\507 Connect to Database\AT2\507AT2QianXieJoanna465511632\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.dll
+E:\Tafe ICT diploma\Semester 2\507 Connect to Database\AT2\507AT2QianXieJoanna465511632\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+E:\Tafe ICT diploma\Semester 2\507 Connect to Database\AT2\507AT2QianXieJoanna465511632\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+E:\Tafe ICT diploma\Semester 2\537 implement security\AT2\TypicalTechTools_SourceCode\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+E:\Tafe ICT diploma\Semester 2\537 implement security\AT2\TypicalTechTools_SourceCode\DataAccess\bin\Debug\net5.0\DataAccess.dll
+E:\Tafe ICT diploma\Semester 2\537 implement security\AT2\TypicalTechTools_SourceCode\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+E:\Tafe ICT diploma\Semester 2\537 implement security\AT2\TypicalTechTools_SourceCode\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+E:\Tafe ICT diploma\Semester 2\537 implement security\AT2\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+E:\Tafe ICT diploma\Semester 2\537 implement security\AT2\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tafe ICT diploma\Semester 2\537 implement security\AT2\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+E:\Tafe ICT diploma\Semester 2\537 implement security\AT2\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+E:\Tafe ICT diploma\Semester 2\537 implement security\AT2\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Tafe ICT diploma\Semester 2\537 implement security\AT2\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.dll
+E:\Tafe ICT diploma\Semester 2\537 implement security\AT2\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+E:\Tafe ICT diploma\Semester 2\537 implement security\AT2\TypicalTechTools_SourceCode\DataAccess\obj\Debug\net5.0\DataAccess.pdb

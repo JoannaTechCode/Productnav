@@ -1,0 +1,55 @@
+﻿
+@model List<FileModel>
+
+@{
+    ViewData["Title"] = "Receipts Index";
+   
+}
+
+<div class="row d-flex justify-content-center">
+    <div class="col-8 card align-items-center p-3">
+        <form asp-controller="Receipts" asp-action="ImageUpload" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <div class="col-md-10">
+                    <p>Upload a file using this form</p>
+                    <input type="file" name="file" />
+                </div>
+
+            </div>
+            <div class="form-group">
+                <div class="col-md-10">
+                    <input type="submit" value="Upload" />
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<div class="row d-flex justify-content-center">
+    <div class="col-8 card align-items-center p-3" style="width:400px; height:400px; overflow:scroll;">
+        <table>
+
+            <tr>
+                <th>File Name</th>
+                <th></th>
+            </tr>
+
+            @if (Model != null)
+            {
+                @foreach (FileModel file in Model)
+                {
+                    <tr>
+                        <td>@file.FileName</td>
+
+                        <td>@Html.ActionLink("Download", "DownloadFile", new { fileName = file.FileName })</td>
+                    </tr>
+                }
+            }
+
+        </table>
+    </div>
+
+</div>
+
+
